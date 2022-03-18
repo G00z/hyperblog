@@ -3,3 +3,5 @@ Este es un archivo de prueba para git.
 Esta es una linea nueva de texto
 
 Un tercer cambio al archivo
+
+Estoy aprendiendo a usar GIT
